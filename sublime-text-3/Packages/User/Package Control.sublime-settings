@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"ColorPicker",
+		"Cucumber",
+		"Cucumber Step Finder",
+		"Emmet",
+		"ERB Autocomplete",
+		"GitGutter",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby"
+	]
+}
