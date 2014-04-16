@@ -1,0 +1,7 @@
+[user]
+	name = Peter
+	email = peterhsaxton@gmail.com
+[color]
+	ui = auto
+[alias]
+	visual = log --oneline --decorate --graph --all
