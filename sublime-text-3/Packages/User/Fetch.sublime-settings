@@ -1,7 +1,11 @@
 {
 	"files":
 	{
-		"jquery": "http://code.jquery.com/jquery.min.js"
+		"HammerHead": "https://raw.githubusercontent.com/CrowdHailer/HammerHead/master/dist/hammerhead.js",
+		"Hammerhead min": "https://raw.githubusercontent.com/CrowdHailer/HammerHead/master/dist/hammerhead.min.js",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"karma dependancies": "https://raw.githubusercontent.com/CrowdHailer/fetch-files/master/karma_dependancies.json",
+		"karma spec": "https://raw.githubusercontent.com/CrowdHailer/fetch-files/master/karma_cli_spec.json"
 	},
 	"packages":
 	{
